@@ -1,0 +1,3 @@
+[submodule "viz3Danim"]
+	path = viz3Danim
+	url = https://github.com/ebranlard/viz3Danim
